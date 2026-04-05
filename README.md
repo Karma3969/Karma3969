@@ -60,12 +60,17 @@ Always curious and driven, I aim to create solutions that are not only effective
 
 ## Connect With Me
 <p align="center">
-  <a href="mailto:harshkushwaha94554@gmail.com?subject=Let's%20Connect&body=Hi%20Harsh,%20I%20came%20across%20your%20GitHub%20profile%20and%20would%20like%20to%20connect.">
+  <a href="mailto:harshkushwaha94554@gmail.com?subject=Lets%20Connect&body=Hi%20Harsh,%20I%20came%20across%20your%20profile.">
     <img src="https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
+<p align="center">
+  📫 <b>harshkushwaha94554@gmail.com</b>
+</p>
+
   <!-- LinkedIn Button -->
+  <p align="center">
   <a href="https://www.linkedin.com/in/harsh--kushwaha/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Harsh-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
