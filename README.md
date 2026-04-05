@@ -85,7 +85,9 @@ https://github.com/Karma3969/process-visualizer.git
 
 ## 🌐 Connect With Me
 
-* 📫 Email: harshkushwaha94554@gmail.com
+* 📫<a href="mailto:harshkushwaha94554@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Me-red?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
 * 💼 LinkedIn: [https://linkedin.com/in/your-profile](https://www.linkedin.com/in/harsh--kushwaha/)
 * 🌍 Portfolio: your-portfolio-link
 
