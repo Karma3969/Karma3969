@@ -22,9 +22,8 @@ Mark well his journey, for in his code lies both question and answer, and in his
 
 ---
 <p align="center">
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExejJ1MmhqaHRhb21xaGNwNnRyODRyb3phNGVvcmpxb2VqMXhkbDduOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/6pYbw8HkA2SO5UKZYj/giphy.gif" width="60%" />
+  <img src="https://media.giphy.com/media/6pYbw8HkA2SO5UKZYj/giphy.gif" width="60%" />
 </p>
-
 ##  Featured Projects
 
  Secure Medical Data Analysis
