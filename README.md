@@ -52,8 +52,10 @@ Privacy-preserving ML using Homomorphic Encryption
 Interactive visualization of system processes  
  Understand scheduling & execution in real-time  
 
- React • System Design  
-
+ React • System Design 
+ 
+ https://github.com/Karma3969/process-visualizer.git
+ 
 </div>
 
 </div>
