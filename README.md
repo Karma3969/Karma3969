@@ -119,26 +119,6 @@ Interactive visualization of system processes
 
 ---
 
-##  Developer Mindset
-
-```python
-class Developer:
-    def __init__(self):
-        self.skills = ["Security", "ML", "Systems"]
-    
-    def build(self):
-        while True:
-            self.learn()
-            self.break_things()
-            self.secure_them()
-            return "Level Up 🚀"
-
-me = Developer()
-print(me.build())
-```
-
----
-
 ## Fun Zone
  
  Security isn’t a feature — it’s a mindset.  
