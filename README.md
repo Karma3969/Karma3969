@@ -11,11 +11,21 @@
 
 ## 🧠 About Me
 
-I’m Harsh Kushwaha, an Information Security enthusiast with a strong focus on cryptography and its real-world applications. I enjoy working on problems where security, privacy, and intelligent systems intersect, especially in areas like privacy-preserving machine learning and secure data processing.
+I'm Harsh Kushwaha, an Information Security enthusiast with a strong focus on **cryptography** and its real-world applications. I work at the intersection of security, privacy, and intelligent systems — particularly in **privacy-preserving machine learning** and **secure data processing**.
 
-My approach to development is rooted in curiosity and problem-solving. I like breaking down complex systems to understand how they work, identifying potential vulnerabilities, and then rebuilding them to be more robust and secure. This mindset helps me design solutions that are not only functional but also resilient.
+My approach to development is rooted in curiosity and problem-solving. I break down complex systems to understand how they work, identify potential vulnerabilities, and rebuild them to be more robust and secure — designing solutions that are not only functional but **resilient by design**.
 
-I’m continuously learning and exploring new technologies, particularly in cybersecurity, machine learning, and system design. My goal is to create impactful solutions that balance innovation with security, and to grow into a developer who builds systems that can be trusted at scale.
+I'm continuously exploring cybersecurity, machine learning, and system design, with the goal of building systems that can be **trusted at scale**.
+
+---
+
+<p align="center">
+  <a href="https://github.com/Karma3969/Karma3969/raw/main/LuxSleek_CV%20(2).pdf" target="_blank">
+    <img src="https://img.shields.io/badge/⬇%20Download%20My%20CV-FFD700?style=for-the-badge&logoColor=black" 
+         alt="Download CV"
+         style="border: 2px solid #FFD700; border-radius: 8px; box-shadow: 0 0 12px #FFD700, 0 0 24px #FFD700aa;" />
+  </a>
+</p>
 
 ---
 <!-- ================= SPIDERVERSE PROJECT SECTION ================= -->
