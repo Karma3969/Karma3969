@@ -18,6 +18,51 @@ My approach to development is rooted in curiosity and problem-solving. I like br
 I’m continuously learning and exploring new technologies, particularly in cybersecurity, machine learning, and system design. My goal is to create impactful solutions that balance innovation with security, and to grow into a developer who builds systems that can be trusted at scale.
 
 ---
+<!-- ================= SPIDERVERSE PROJECT SECTION ================= -->
+
+<h2 align="center">🕷️ Into the Project-Verse</h2>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Entering+the+Multiverse...;Different+Projects,+Different+Realities;Choose+Your+Universe&center=true&width=500&height=45">
+</p>
+
+---
+
+<div align="center">
+
+<!-- PROJECT 1 -->
+<div style="border:2px solid #ff004c; border-radius:15px; padding:15px; margin:15px; box-shadow:0 0 15px #ff004c;">
+  
+###  Earth-1610: Secure Medical Data  
+
+Privacy-preserving ML using Homomorphic Encryption  
+ Compute on encrypted data without exposing it  
+
+ Python • Cryptography • Machine Learning  
+
+ https://github.com/Karma3969/Pailier-Homomorphic-based-Medical-Data-Analysis-Using-AI-ML  
+
+</div>
+
+<!-- PROJECT 2 -->
+<div style="border:2px solid #00eaff; border-radius:15px; padding:15px; margin:15px; box-shadow:0 0 15px #00eaff;">
+  
+###  Earth-42: OS Process Visualizer  
+
+Interactive visualization of system processes  
+ Understand scheduling & execution in real-time  
+
+ React • System Design  
+
+</div>
+
+</div>
+
+---
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=More+Universes+Loading...;Stay+Tuned+🕷️&center=true&width=400&height=40">
+</p>
 
 ## Languages and tools
 
@@ -50,10 +95,6 @@ I’m continuously learning and exploring new technologies, particularly in cybe
   <a href="mailto:harshkushwaha94554@gmail.com?subject=Lets%20Connect&body=Hi%20Harsh,%20I%20came%20across%20your%20profile.">
     <img src="https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-</p>
-
-<p align="center">
-  📫 <b>harshkushwaha94554@gmail.com</b>
 </p>
 
   <!-- LinkedIn Button -->
