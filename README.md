@@ -9,28 +9,32 @@
 
 ---
 
-## 🧠 About Me
 
-Hark! A seeker of secrets in the vast realms of code and cipher stands before thee — Harsh Kushwaha by name.
-A devoted craftsman of the digital arts, he toils where shadow and logic entwine, guarding the sanctity of knowledge with the armor of cryptography.
-
-In the noble pursuit of wisdom, he doth explore the curious marriage betwixt machine and mind, where learning engines whisper truths from veiled data.
-With keen intellect and restless spirit, he breaketh systems not in folly, but in quest of strength — for only through fracture may true security be forged.
-
-Ever striving, ever learning, he walks the fine line 'twixt chaos and control, shaping order from the unseen.
-Mark well his journey, for in his code lies both question and answer, and in his craft, the promise of a safer morrow.
-
----
-<p align="center">
-  <img src="https://media.giphy.com/media/QYkX9IMHthYn0Y3pcG/giphy.gif" width="60%" />
-</p>
-
+<pre>
  _______   _______  _______       _______. _______   ______ 
 |       \ |   ____||       \     /       ||   ____| /      |
 |  .--.  ||  |__   |  .--.  |   |   (----`|  |__   |  ,----'
 |  |  |  ||   __|  |  |  |  |    \   \    |   __|  |  |     
 |  '--'  ||  |____ |  '--'  |.----)   |   |  |____ |  `----.
 |_______/ |_______||_______/ |_______/    |_______| \______|
+</pre>
+
+## 🧠 About Me
+
+I’m Harsh Kushwaha, an Information Security enthusiast with a strong interest in cryptography and machine learning. I enjoy working at the intersection of security and AI, building systems that are both intelligent and privacy-preserving.
+
+I like exploring how data can be analyzed securely, especially through techniques like encryption and secure computation. My work often involves breaking down complex systems to understand how they function and how they can be made more secure.
+
+I’m continuously learning and building projects that combine practical implementation with real-world impact. I’m particularly interested in solving problems related to data privacy, system security, and scalable intelligent systems.
+
+Always curious and driven, I aim to create solutions that are not only effective but also secure by design.
+
+
+---
+<p align="center">
+  <img src="https://media.giphy.com/media/QYkX9IMHthYn0Y3pcG/giphy.gif" width="60%" />
+</p>
+
                                                             
 
 ## Languages and tools
