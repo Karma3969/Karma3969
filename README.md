@@ -100,21 +100,19 @@ print(me.build())
 ---
 
 ## Fun Zone
-
+ 
  Security isn’t a feature — it’s a mindset.  
-
+ 
  Break. Learn. Secure. Repeat.  
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=🎮+Entering+Fun+Zone...;Loading+DOOM...&center=true&width=400&height=40">
-</p>
-
-<p align="center">
-  <a href="https://archive.org/details/msdos_DOOM_1993" target="_blank">
+  <a href="https://archive.org/details/msdos_DOOM_1993">
     <img src="https://media.giphy.com/media/3oEduSbSGpGaRX2Vri/giphy.gif" width="60%" />
   </a>
 </p>
 
 <p align="center">
-  <b>▶ Click to play DOOM</b>
+  <a href="https://archive.org/details/msdos_DOOM_1993">
+    ▶ <b>Play DOOM</b>
+  </a>
 </p>
