@@ -9,26 +9,13 @@
 
 ---
 
-
-<pre>
- _______   _______  _______       _______. _______   ______ 
-|       \ |   ____||       \     /       ||   ____| /      |
-|  .--.  ||  |__   |  .--.  |   |   (----`|  |__   |  ,----'
-|  |  |  ||   __|  |  |  |  |    \   \    |   __|  |  |     
-|  '--'  ||  |____ |  '--'  |.----)   |   |  |____ |  `----.
-|_______/ |_______||_______/ |_______/    |_______| \______|
-</pre>
-
 ## 🧠 About Me
 
-I’m Harsh Kushwaha, an Information Security enthusiast with a strong interest in cryptography and machine learning. I enjoy working at the intersection of security and AI, building systems that are both intelligent and privacy-preserving.
+I’m Harsh Kushwaha, an Information Security enthusiast with a strong focus on cryptography and its real-world applications. I enjoy working on problems where security, privacy, and intelligent systems intersect, especially in areas like privacy-preserving machine learning and secure data processing.
 
-I like exploring how data can be analyzed securely, especially through techniques like encryption and secure computation. My work often involves breaking down complex systems to understand how they function and how they can be made more secure.
+My approach to development is rooted in curiosity and problem-solving. I like breaking down complex systems to understand how they work, identifying potential vulnerabilities, and then rebuilding them to be more robust and secure. This mindset helps me design solutions that are not only functional but also resilient.
 
-I’m continuously learning and building projects that combine practical implementation with real-world impact. I’m particularly interested in solving problems related to data privacy, system security, and scalable intelligent systems.
-
-Always curious and driven, I aim to create solutions that are not only effective but also secure by design.
-
+I’m continuously learning and exploring new technologies, particularly in cybersecurity, machine learning, and system design. My goal is to create impactful solutions that balance innovation with security, and to grow into a developer who builds systems that can be trusted at scale.
 
 ---
 
@@ -114,3 +101,15 @@ print(me.build())
     ▶ <b>Play DOOM</b>
   </a>
 </p>
+
+---
+
+<pre>
+  <p align="center">
+ _______   _______  _______       _______. _______   ______ 
+|       \ |   ____||       \     /       ||   ____| /      |
+|  .--.  ||  |__   |  .--.  |   |   (----`|  |__   |  ,----'
+|  |  |  ||   __|  |  |  |  |    \   \    |   __|  |  |     
+|  '--'  ||  |____ |  '--'  |.----)   |   |  |____ |  `----.
+|_______/ |_______||_______/ |_______/    |_______| \______|
+</pre>
