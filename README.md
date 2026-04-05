@@ -31,11 +31,6 @@ Always curious and driven, I aim to create solutions that are not only effective
 
 
 ---
-<p align="center">
-  <img src="https://media.giphy.com/media/QYkX9IMHthYn0Y3pcG/giphy.gif" width="60%" />
-</p>
-
-                                                            
 
 ## Languages and tools
 
@@ -106,9 +101,7 @@ print(me.build())
  Break. Learn. Secure. Repeat.  
 
 <p align="center">
-  <a href="https://archive.org/details/msdos_DOOM_1993">
-    <img src="https://media.giphy.com/media/3oEduSbSGpGaRX2Vri/giphy.gif" width="60%" />
-  </a>
+  <img src="https://media.giphy.com/media/QYkX9IMHthYn0Y3pcG/giphy.gif" width="60%" />
 </p>
 
 <p align="center">
