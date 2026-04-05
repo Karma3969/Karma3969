@@ -24,21 +24,19 @@ Mark well his journey, for in his code lies both question and answer, and in his
 
 ##  Featured Projects
 
-<!-- Animated Banner -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=Projects%20%26%20Work&fontSize=35&fontColor=ffffff&animation=fadeIn" />
-</p>
+ Secure Medical Data Analysis
+Built using Paillier Homomorphic Encryption
+Enables computation on encrypted medical data
+ Combines cryptography + ML
+ Tech: Python, PyCryptodome, ML
 
-<!-- Typing Animation -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=🔐+Secure+Systems;🤖+ML+Projects;⚡+Real-World+Applications&center=true&width=500&height=45">
-</p>
+ https://github.com/Karma3969/Pailier-Homomorphic-based-Medical-Data-Analysis-Using-AI-ML
 
-<!-- Activity Graph -->
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Karma3969&theme=react-dark" />
-</p>
-
+ OS Process Visualizer
+Interactive visualization of OS scheduling
+Helps understand process execution deeply
+ Tech: React, System Design
+ https://github.com/Karma3969/process-visualizer.git
 ## 🛠️ Tech Stack
 
 ### 💻 Languages
