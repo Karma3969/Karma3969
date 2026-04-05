@@ -63,7 +63,7 @@ Always curious and driven, I aim to create solutions that are not only effective
 
 ---
 
-## 🌐 Connect With Me
+## Connect With Me
 <p>
   <!-- Email Button -->
   <a href="mailto:harshkushwaha94554@gmail.com?subject=Let's Connect&body=Hi Harsh, I came across your profile and would like to connect.">
@@ -101,6 +101,20 @@ print(me.build())
 
 ## Fun Zone
 
-🕹️ “Security isn't a feature — it's a mindset.”
+ Security isn’t a feature — it’s a mindset.  
 
-⚡ Always curious. Always building. Always improving.
+ Break. Learn. Secure. Repeat.  
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=🎮+Entering+Fun+Zone...;Loading+DOOM...&center=true&width=400&height=40">
+</p>
+
+<p align="center">
+  <a href="https://archive.org/details/msdos_DOOM_1993" target="_blank">
+    <img src="https://media.giphy.com/media/3oEduSbSGpGaRX2Vri/giphy.gif" width="60%" />
+  </a>
+</p>
+
+<p align="center">
+  <b>▶ Click to play DOOM</b>
+</p>
