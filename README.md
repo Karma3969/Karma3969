@@ -59,11 +59,11 @@ Always curious and driven, I aim to create solutions that are not only effective
 ---
 
 ## Connect With Me
-<p>
-  <!-- Email Button -->
-  <a href="mailto:harshkushwaha94554@gmail.com?subject=Let's Connect&body=Hi Harsh, I came across your profile and would like to connect.">
-    <img src="https://img.shields.io/badge/Email-Harsh-red?style=for-the-badge&logo=gmail&logoColor=white" />
+<p align="center">
+  <a href="mailto:harshkushwaha94554@gmail.com?subject=Let's%20Connect&body=Hi%20Harsh,%20I%20came%20across%20your%20GitHub%20profile%20and%20would%20like%20to%20connect.">
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
+</p>
 
   <!-- LinkedIn Button -->
   <a href="https://www.linkedin.com/in/harsh--kushwaha/" target="_blank">
