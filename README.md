@@ -40,10 +40,10 @@ Interactive visualization of OS scheduling
 Helps understand process execution deeply
  Tech: React, System Design
  https://github.com/Karma3969/process-visualizer.git
-## 🛠️ Tech Stack
+## Languages and tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,java,git,docker,MySQL,AWS,linux,mongodb,tensorflow&perline=8" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,java,git,docker,mysql,aws,linux,mongodb,tensorflow" />
 </p>
 
 ##  GitHub Stats
