@@ -50,13 +50,15 @@ https://github.com/Karma3969/process-visualizer.git
 ###  Security + ML
 
 <p>
-  Cryptography • Network Security • Machine Learning • Data Analysis  
+  <img src="https://img.shields.io/badge/Cryptography-black?style=for-the-badge&logo=security&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Network%20Security-darkgreen?style=for-the-badge&logo=cisco&logoColor=white"/>
+  <img src="https://skillicons.dev/icons?i=python,tensorflow" />
+  <img src="https://img.shields.io/badge/Data%20Analysis-blue?style=for-the-badge&logo=pandas&logoColor=white"/>
 </p>
 
 ### ⚙️ Tools
-
 <p>
-  <img src="https://skillicons.dev/icons?i=git,docker,linux,MongoDB" />
+  <img src="https://skillicons.dev/icons?i=git,docker,linux,mongodb" />
 </p>
 
 ---
@@ -83,8 +85,8 @@ https://github.com/Karma3969/process-visualizer.git
 
 ## 🌐 Connect With Me
 
-* 📫 Email: [your-email@gmail.com](mailto:your-email@gmail.com)
-* 💼 LinkedIn: https://linkedin.com/in/your-profile
+* 📫 Email: harshkushwaha94554@gmail.com
+* 💼 LinkedIn: [https://linkedin.com/in/your-profile](https://www.linkedin.com/in/harsh--kushwaha/)
 * 🌍 Portfolio: your-portfolio-link
 
 ---
