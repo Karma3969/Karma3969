@@ -17,7 +17,6 @@ My approach to development is rooted in curiosity and problem-solving. I break d
 
 I'm continuously exploring cybersecurity, machine learning, and system design, with the goal of building systems that can be **trusted at scale**.
 
----
 
 <p align="center">
   <a href="https://github.com/Karma3969/Karma3969/raw/main/LuxSleek_CV%20(2).pdf" target="_blank">
