@@ -103,19 +103,10 @@ Interactive visualization of system processes
 ---
 
 ## Connect With Me
-<p align="center">
-  <a href="mailto:harshkushwaha94554@gmail.com?subject=Lets%20Connect&body=Hi%20Harsh,%20I%20came%20across%20your%20profile.">
-    <img src="https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
 
-  <!-- LinkedIn Button -->
-  <p align="center">
-  <a href="https://www.linkedin.com/in/harsh--kushwaha/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Harsh-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
+<p align="center">
+  <a href="mailto:harshkushwaha94554@gmail.com?subject=Lets%20Connect&body=Hi%20Harsh,%20I%20came%20across%20your%20profile."><img src="https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;<a href="https://www.linkedin.com/in/harsh--kushwaha/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Harsh%20Kushwaha-blue?style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;<a href="https://github.com/Karma3969" target="_blank"><img src="https://img.shields.io/badge/GitHub-Karma3969-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
-* 🌍 Portfolio: your-portfolio-link
 
 ---
 
