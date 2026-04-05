@@ -11,11 +11,13 @@
 
 ## 🧠 About Me
 
-I'm Harsh Kushwaha, an Information Security enthusiast with a strong focus on **cryptography** and its real-world applications. I work at the intersection of security, privacy, and intelligent systems — particularly in **privacy-preserving machine learning** and **secure data processing**.
+I am Harsh Kushwaha, focusing my current research on Cryptography and its real-life application as of now. My work takes place at the intersection of Security, Privacy, and Intelligent Systems, with a focus on areas such as: Privacy Preserving Machine Learning; Secure Data Processing; and Data Analysis.
 
-My approach to development is rooted in curiosity and problem-solving. I break down complex systems to understand how they work, identify potential vulnerabilities, and rebuild them to be more robust and secure — designing solutions that are not only functional but **resilient by design**.
+I am guided by a curiosity- and problem-solving-based approach to develop products that are usable but built to withstand future attacks and vulnerabilities. I do this through breaking down complex systems, understanding how they operate, discovering vulnerabilities within them, and reconstructing them so that they are stronger than before using solutions that have been built with these characteristics.
 
-I'm continuously exploring cybersecurity, machine learning, and system design, with the goal of building systems that can be **trusted at scale**.
+Outside of my understanding of Cybersecurity, I have a background in Cloud Computing and software development; this gives me the ability to design, develop, and implement applications that are scalable, efficient, and most importantly, secure. I enjoy designing systems that are built around securing applications using the best practices of developing and deploying solutions today, along with the latest technology.
+
+I try to remain current on emerging technologies related to Cybersecurity, Machine Learning, System Design, and Cloud technology to build innovative and reliable solutions that are also scalable and secure.
 
 
 <p align="center">
@@ -85,11 +87,10 @@ Interactive visualization of system processes
 ##  GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Karma3969&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Karma3969&show_icons=true&theme=radical&cache_seconds=86400" />
 </p>
-
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Karma3969&theme=radical" />
+  <img src="https://streak-stats.demolab.com?user=Karma3969&theme=radical&cache_seconds=86400" />
 </p>
 
 ---
