@@ -21,6 +21,9 @@ Ever striving, ever learning, he walks the fine line 'twixt chaos and control, s
 Mark well his journey, for in his code lies both question and answer, and in his craft, the promise of a safer morrow.
 
 ---
+<p align="center">
+  <img src="https://media.giphy.com/media/l0HlQ7LRalQqdWfao/giphy.gif" width="60%" />
+</p>
 
 ##  Featured Projects
 
