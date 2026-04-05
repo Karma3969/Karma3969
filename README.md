@@ -11,10 +11,10 @@
 
 ## 🧠 About Me
 
-* 🔐 Passionate about **Information Security & Cryptography**
-* 🤖 Exploring **Machine Learning + Privacy-Preserving AI**
-* 🧪 Building real-world projects combining **Security + AI**
-* ⚡ I like breaking systems → then making them secure
+* Passionate about **Information Security & Cryptography**
+* Exploring **Machine Learning + Privacy-Preserving AI**
+*  Building real-world projects combining **Security + AI**
+* I like breaking systems → then making them secure
 
 ---
 
@@ -24,8 +24,8 @@
 
 * Built using **Paillier Homomorphic Encryption**
 * Enables computation on encrypted medical data
-* 🔥 Combines **cryptography + ML**
-* 🛠️ Tech: Python, PyCryptodome, ML
+*  Combines **cryptography + ML**
+*  Tech: Python, PyCryptodome, ML
 
  https://github.com/Karma3969/Pailier-Homomorphic-based-Medical-Data-Analysis-Using-AI-ML
 
@@ -44,7 +44,7 @@ https://github.com/Karma3969/process-visualizer.git
 ### 💻 Languages
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,cpp,java,Linux,git,docker,mongodb,sql,power bi" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,java,sql" />
 </p>
 
 ###  Security + ML
@@ -56,7 +56,7 @@ https://github.com/Karma3969/process-visualizer.git
 ### ⚙️ Tools
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,docker,linux" />
+  <img src="https://skillicons.dev/icons?i=git,docker,linux,MongoDB" />
 </p>
 
 ---
