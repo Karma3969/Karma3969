@@ -11,10 +11,14 @@
 
 ## 🧠 About Me
 
-* Passionate about **Information Security & Cryptography**
-* Exploring **Machine Learning + Privacy-Preserving AI**
-*  Building real-world projects combining **Security + AI**
-* I like breaking systems → then making them secure
+Hark! A seeker of secrets in the vast realms of code and cipher stands before thee — Harsh Kushwaha by name.
+A devoted craftsman of the digital arts, he toils where shadow and logic entwine, guarding the sanctity of knowledge with the armor of cryptography.
+
+In the noble pursuit of wisdom, he doth explore the curious marriage betwixt machine and mind, where learning engines whisper truths from veiled data.
+With keen intellect and restless spirit, he breaketh systems not in folly, but in quest of strength — for only through fracture may true security be forged.
+
+Ever striving, ever learning, he walks the fine line 'twixt chaos and control, shaping order from the unseen.
+Mark well his journey, for in his code lies both question and answer, and in his craft, the promise of a safer morrow.
 
 ---
 
