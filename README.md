@@ -22,7 +22,7 @@ Mark well his journey, for in his code lies both question and answer, and in his
 
 ---
 <p align="center">
-  <img src="https://media.giphy.com/media/6pYbw8HkA2SO5UKZYj/giphy.gif" width="60%" />
+  <img src="https://raw.githubusercontent.com/abhisheknaiidu/awesome-github-profile-readme/master/assets/code.gif" width="60%" />
 </p>
 
 ##  Featured Projects
