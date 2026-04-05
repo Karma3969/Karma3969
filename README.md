@@ -42,27 +42,9 @@ Helps understand process execution deeply
  https://github.com/Karma3969/process-visualizer.git
 ## 🛠️ Tech Stack
 
-### 💻 Languages
-
-<p>
-  <img src="https://skillicons.dev/icons?i=python,cpp,java,sql" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,cpp,js,git,docker,linux,mongodb,tensorflow&perline=8" />
 </p>
-
-###  Security + ML
-
-<p>
-  <img src="https://img.shields.io/badge/Cryptography-black?style=for-the-badge&logo=security&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Network%20Security-darkgreen?style=for-the-badge&logo=cisco&logoColor=white"/>
-  <img src="https://skillicons.dev/icons?i=python,tensorflow" />
-  <img src="https://img.shields.io/badge/Data%20Analysis-blue?style=for-the-badge&logo=pandas&logoColor=white"/>
-</p>
-
-### ⚙️ Tools
-<p>
-  <img src="https://skillicons.dev/icons?i=git,docker,linux,mongodb" />
-</p>
-
----
 
 ##  GitHub Stats
 
