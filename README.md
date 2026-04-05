@@ -25,21 +25,14 @@ Mark well his journey, for in his code lies both question and answer, and in his
   <img src="https://media.giphy.com/media/QYkX9IMHthYn0Y3pcG/giphy.gif" width="60%" />
 </p>
 
-##  Featured Projects
+ _______   _______  _______       _______. _______   ______ 
+|       \ |   ____||       \     /       ||   ____| /      |
+|  .--.  ||  |__   |  .--.  |   |   (----`|  |__   |  ,----'
+|  |  |  ||   __|  |  |  |  |    \   \    |   __|  |  |     
+|  '--'  ||  |____ |  '--'  |.----)   |   |  |____ |  `----.
+|_______/ |_______||_______/ |_______/    |_______| \______|
+                                                            
 
- Secure Medical Data Analysis
-Built using Paillier Homomorphic Encryption
-Enables computation on encrypted medical data
- Combines cryptography + ML
- Tech: Python, PyCryptodome, ML
-
- https://github.com/Karma3969/Pailier-Homomorphic-based-Medical-Data-Analysis-Using-AI-ML
-
- OS Process Visualizer
-Interactive visualization of OS scheduling
-Helps understand process execution deeply
- Tech: React, System Design
- https://github.com/Karma3969/process-visualizer.git
 ## Languages and tools
 
 <p align="center">
