@@ -24,6 +24,7 @@ Mark well his journey, for in his code lies both question and answer, and in his
 <p align="center">
   <img src="https://media.giphy.com/media/6pYbw8HkA2SO5UKZYj/giphy.gif" width="60%" />
 </p>
+
 ##  Featured Projects
 
  Secure Medical Data Analysis
