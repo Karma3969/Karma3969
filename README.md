@@ -19,7 +19,7 @@ I'm continuously exploring cybersecurity, machine learning, and system design, w
 
 
 <p align="center">
-  <a href="https://github.com/Karma3969/Karma3969/raw/main/resume%20(2).pdf" target="_blank">
+  <a href="https://github.com/Karma3969/Karma3969/raw/main/resume.pdf" target="_blank">
     <img src="https://img.shields.io/badge/⬇%20Download%20My%20CV-FFD700?style=for-the-badge&logoColor=black" 
          alt="Download CV"
          style="border: 2px solid #FFD700; border-radius: 8px; box-shadow: 0 0 12px #FFD700, 0 0 24px #FFD700aa;" />
