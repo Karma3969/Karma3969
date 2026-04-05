@@ -43,7 +43,7 @@ Helps understand process execution deeply
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,js,git,docker,linux,mongodb,tensorflow&perline=8" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,java,git,docker,MySQL,AWS,linux,mongodb,tensorflow&perline=8" />
 </p>
 
 ##  GitHub Stats
