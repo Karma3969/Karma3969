@@ -11,13 +11,8 @@
 
 ## 🧠 About Me
 
-I am Harsh Kushwaha, focusing my current research on Cryptography and its real-life application as of now. My work takes place at the intersection of Security, Privacy, and Intelligent Systems, with a focus on areas such as: Privacy Preserving Machine Learning; Secure Data Processing; and Data Analysis.
+I am Harsh Kushwaha, an Information Security enthusiast focused on cryptography and its real-world applications. My work lies at the intersection of security, privacy, and intelligent systems, particularly in privacy-preserving machine learning, secure data processing, and data analysis. I approach development with curiosity, breaking down complex systems to understand, identify vulnerabilities, and rebuild them into secure, resilient solutions. With a background in cloud computing and software development, I design scalable and efficient applications. I continuously explore cybersecurity, machine learning, and system design to build innovative systems that are reliable, secure, and capable of handling real-world challenges.
 
-I am guided by a curiosity- and problem-solving-based approach to develop products that are usable but built to withstand future attacks and vulnerabilities. I do this through breaking down complex systems, understanding how they operate, discovering vulnerabilities within them, and reconstructing them so that they are stronger than before using solutions that have been built with these characteristics.
-
-Outside of my understanding of Cybersecurity, I have a background in Cloud Computing and software development; this gives me the ability to design, develop, and implement applications that are scalable, efficient, and most importantly, secure. I enjoy designing systems that are built around securing applications using the best practices of developing and deploying solutions today, along with the latest technology.
-
-I try to remain current on emerging technologies related to Cybersecurity, Machine Learning, System Design, and Cloud technology to build innovative and reliable solutions that are also scalable and secure.
 
 
 <p align="center">
@@ -114,7 +109,7 @@ Interactive visualization of system processes
  Break. Learn. Secure. Repeat.  
 
 <p align="center">
-  <img src="https://media.giphy.com/media/QYkX9IMHthYn0Y3pcG/giphy.gif" width="60%" />
+  <img src="https://media.giphy.com/media/QYkX9IMHthYn0Y3pcG/giphy.gif" width="80%" />
 </p>
 
 <p align="center">
